@@ -1,0 +1,17 @@
+[
+    "index.md",
+    "decklink.md",
+    "install-node.md",
+    "whodis.md",
+    "what-is-nodejs.md",
+    "3-concepts.md",
+    [
+        "javascript.md",
+        "javascript-further-reading.md"
+    ],
+    "javascript-in-the-browser-vs-the-server.md",
+    [ 
+        "the-problem-npm-solves.md",
+        "npm-futher-reading.md"
+    ]
+]
